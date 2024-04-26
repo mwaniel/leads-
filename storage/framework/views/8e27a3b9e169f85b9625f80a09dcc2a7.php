@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My App</title>
+<<<<<<< HEAD:storage/framework/views/8e27a3b9e169f85b9625f80a09dcc2a7.php
     <link href="<?php echo e(asset('css/styles.css')); ?>" rel="stylesheet">
+=======
+    <link href="{{ asset('css/styles.css') }}" rel="stylesheet">
+>>>>>>> 8c8a1aa (new):resources/views/layouts/app.blade.php
     <style>
         body {
             font-family: Arial, sans-serif;
